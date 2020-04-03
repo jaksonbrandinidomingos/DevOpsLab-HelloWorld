@@ -1,5 +1,5 @@
 # Linguagem Utilizada para Desenvolver a Aplicação
-language: python
+language: Python
 
 # Versão que a aplicação suporta.
 python:
